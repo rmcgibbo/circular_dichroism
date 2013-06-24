@@ -1,0 +1,183 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004116000
+FILE EXTRACTED                                              2013-06-23
+Protein Name                                                Pulmonary surfactant-associated protein B residues 259-280
+Alternative Protein Names                                   Lung surfactant protein B C-terminus residues 59-80, SP-B59-80, SPBC
+Source Organism                                             Homo sapiens
+Protein Supplier                                            ICBR at University of Florida
+Expression System or natural source                         solid phase peptide synthesis
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  No data provided
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2013-05-16
+Dichroism Units of Raw Sample Data                          Millidegrees (theta)
+Dichroism Units of Raw Baseline Data                        Millidegrees (theta)
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Mean Residue Ellipticity
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               0.101
+Concentration Quantification Method                         amino acid analysis
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                No data provided
+Buffer Contents and Concentrations                          10mM sodium phosphate buffer, 8mM DPC detergent, pH 7.4
+Baseline Contents                                           10mM sodium phosphate buffer, 8mM DPC detergent, pH 7.4
+Experimental Temperature (C)                                45
+Instrument or beamline                                      Aviv
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.1
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Rectangular
+Sample Cell Composition                                     Quartz
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      60
+Continuous or Stepped scan                                  ---- Please sele
+Maximum (highest) wavelength, nm                            260
+Minimum (lowest) wavelength, nm                             180
+Criteria for low wavelength cutoff                          Noise level
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            No data provided
+Experimental Collection date                                2009-02-11
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            2531
+Number of Residues                                          22
+Mean Residue Weight                                         120.5
+Data Processing Software Name                               Matlab
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  0
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  P07988[201-279]
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    DTLLGRMLPQ LVCRLVLRCS MD 
+Type of protein                                             membrane
+Keyword/phrase A                                            lung surfactant protein B C-terminus
+Keyword/phrase B                                            No data provided
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         No data provided
+Publication Year                                            No data provided
+Publication Journal                                         No data provided
+Publication Title                                           No data provided
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              Anna Kuznetsova
+Department/School name                                      Biochemistry and Molecular Biology
+University/Institution/Corporation                          University of Florida
+Depositor Country                                           United States
+Name of Principal Investigator (if not depositor)           Joanna Long
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+260    -192.9417105            264.6          0.0000          0.0000          0.0000 
+259     -422.339581            266.0          0.0000          0.0000          0.0000 
+258    -413.4288401            267.5          0.0000          0.0000          0.0000 
+257    -348.5452597            269.3          0.0000          0.0000          0.0000 
+256    -423.8625141            270.8          0.0000          0.0000          0.0000 
+255    -458.5409935            272.1          0.0000          0.0000          0.0000 
+254     -285.218625            273.4          0.0000          0.0000          0.0000 
+253    -302.4667084            274.8          0.0000          0.0000          0.0000 
+252    -365.9115158            275.8          0.0000          0.0000          0.0000 
+251    -259.4875559            277.3          0.0000          0.0000          0.0000 
+250    -476.4689903            278.2          0.0000          0.0000          0.0000 
+249    -500.8931179            279.7          0.0000          0.0000          0.0000 
+248    -418.7194597            281.0          0.0000          0.0000          0.0000 
+247    -678.5061158            282.5          0.0000          0.0000          0.0000 
+246    -725.2090209            283.8          0.0000          0.0000          0.0000 
+245    -969.6901876            285.0          0.0000          0.0000          0.0000 
+244    -1133.357346            286.4          0.0000          0.0000          0.0000 
+243    -1278.590278            287.8          0.0000          0.0000          0.0000 
+242    -1753.820012            289.2          0.0000          0.0000          0.0000 
+241    -2070.999987            290.7          0.0000          0.0000          0.0000 
+240    -2361.266799            292.6          0.0000          0.0000          0.0000 
+239    -3239.537666            294.6          0.0000          0.0000          0.0000 
+238    -3377.180339            296.6          0.0000          0.0000          0.0000 
+237     -4196.71985            298.7          0.0000          0.0000          0.0000 
+236    -4961.210485            300.9          0.0000          0.0000          0.0000 
+235    -5430.629338            302.8          0.0000          0.0000          0.0000 
+234    -6670.645481            305.1          0.0000          0.0000          0.0000 
+233    -7180.610695            307.6          0.0000          0.0000          0.0000 
+232    -7899.332526            309.9          0.0000          0.0000          0.0000 
+231    -9043.928489            312.4          0.0000          0.0000          0.0000 
+230    -10224.49598            314.4          0.0000          0.0000          0.0000 
+229    -10960.87856            317.2          0.0000          0.0000          0.0000 
+228    -11756.19441            319.7          0.0000          0.0000          0.0000 
+227    -12627.64735            322.7          0.0000          0.0000          0.0000 
+226    -13507.89396            325.2          0.0000          0.0000          0.0000 
+225    -13980.76492            327.5          0.0000          0.0000          0.0000 
+224    -14461.30662            330.1          0.0000          0.0000          0.0000 
+223    -15034.86119            332.0          0.0000          0.0000          0.0000 
+222    -15465.21767            334.4          0.0000          0.0000          0.0000 
+221    -15878.94867            336.7          0.0000          0.0000          0.0000 
+220    -16447.62806            339.1          0.0000          0.0000          0.0000 
+219    -16555.61969            341.7          0.0000          0.0000          0.0000 
+218    -16406.51188            344.3          0.0000          0.0000          0.0000 
+217    -16755.99615            347.2          0.0000          0.0000          0.0000 
+216    -17162.34569            350.4          0.0000          0.0000          0.0000 
+215    -17447.54158            352.9          0.0000          0.0000          0.0000 
+214    -17550.79823            356.1          0.0000          0.0000          0.0000 
+213     -17995.5237            359.1          0.0000          0.0000          0.0000 
+212    -18605.98993            362.5          0.0000          0.0000          0.0000 
+211    -19521.62011            366.5          0.0000          0.0000          0.0000 
+210    -19497.74499            370.7          0.0000          0.0000          0.0000 
+209    -20150.47074            375.4          0.0000          0.0000          0.0000 
+208     -20110.7688            380.8          0.0000          0.0000          0.0000 
+207    -19355.88856            386.4          0.0000          0.0000          0.0000 
+206    -17990.74565            392.7          0.0000          0.0000          0.0000 
+205     -16365.8127            398.6          0.0000          0.0000          0.0000 
+204    -14494.01971            404.5          0.0000          0.0000          0.0000 
+203    -11036.67413            411.1          0.0000          0.0000          0.0000 
+202    -7948.405766            418.1          0.0000          0.0000          0.0000 
+201    -4208.323176            426.0          0.0000          0.0000          0.0000 
+200     351.1300496            435.2          0.0000          0.0000          0.0000 
+199      5510.11853            444.7          0.0000          0.0000          0.0000 
+198     10111.99903            454.8          0.0000          0.0000          0.0000 
+197     14669.54919            465.5          0.0000          0.0000          0.0000 
+196     18963.44577            476.3          0.0000          0.0000          0.0000 
+195     21254.14995            486.9          0.0000          0.0000          0.0000 
+194     24342.16093            498.3          0.0000          0.0000          0.0000 
+193     24897.14279            510.1          0.0000          0.0000          0.0000 
+192     25888.49652            523.4          0.0000          0.0000          0.0000 
+191      26003.3199            537.5          0.0000          0.0000          0.0000 
+190     26006.40644            557.3          0.0000          0.0000          0.0000 
+189      23914.9811            579.4          0.0000          0.0000          0.0000 
+188     21577.46372            612.9          0.0000          0.0000          0.0000 
+187     22090.78094            654.1          0.0000          0.0000          0.0000 
+186     18244.47264            715.1          0.0000          0.0000          0.0000 
+185     16709.52994            788.9          0.0000          0.0000          0.0000 
+184     20258.34108            893.6          0.0000          0.0000          0.0000 
+183     9217.409837           1004.9          0.0000          0.0000          0.0000 
+182     4736.728811           1093.6          0.0000          0.0000          0.0000 
+181    -23697.93358           1129.5          0.0000          0.0000          0.0000 
+180    -6336.722003           1139.0          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+0.000         0.0000
+PCDDB-END

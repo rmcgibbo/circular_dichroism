@@ -1,0 +1,173 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0004066000
+FILE EXTRACTED                                              2013-06-23
+Protein Name                                                Caerin 1.1
+Alternative Protein Names                                   No data provided
+Source Organism                                             Litoria genus 
+Protein Supplier                                            Mimotopes (Australia)
+Expression System or natural source                         solid phase synthesis
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  Phospholipid vesicles made of DMPC/DMPG (2:1) at lipid to peptide molar ratio 10
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2013-01-16
+Dichroism Units of Raw Sample Data                          No data provided
+Dichroism Units of Raw Baseline Data                        No data provided
+Dichroism Units of Average Sample Data                      No data provided
+Dichroism Units of Averaged Baseline Data                   No data provided
+Dichroism Units of Net Smoothed Data                        No data provided
+Dichroism Units of Processed Data                           Mean Residue Ellipticity
+CD or SRCD                                                  CD
+Protein Concentration (mg/ml)                               1
+Concentration Quantification Method                         Supplier value
+Protein Purity (%)                                          90
+Purity Quantification Method                                Supplier value
+Buffer Contents and Concentrations                          water
+Baseline Contents                                           phospholipids
+Experimental Temperature (C)                                30
+Instrument or beamline                                      Aviv
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.01
+Cell Pathlength Calibration Method                          Manufacturers Spec.
+Sample Cell Type                                            Cylindrical-Demountable
+Sample Cell Composition                                     Suprasil
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      3
+Continuous or Stepped scan                                  ---- Please sele
+Maximum (highest) wavelength, nm                            250
+Minimum (lowest) wavelength, nm                             180
+Criteria for low wavelength cutoff                          No data provided
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            2
+Experimental Collection date                                2010-01-01
+Local Spectrum Identifier                                   No data provided
+CSA or ACS                                                  No data provided
+Dichroism Units for CSA Standard                            No data provided
+Final Spectrum Calibrated                                   ---- Please sele
+CSA/ACS Standard Concentration (mg/ml)                      No data provided
+CSA/ACS Pathlength (mm)                                     No data provided
+CSA/ACS Zeroed at                                           No data provided
+CSA/ACS Date Measured                                       0000-00-00
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        No data provided
+CD signal at 290nm (mdeg)                                   No data provided
+CSA/ACS Experiment temperature, C                           No data provided
+Molecular Weight                                            2585
+Number of Residues                                          25
+Mean Residue Weight                                         107.71
+Data Processing Software Name                               origin
+Data Processing Software Version                            No data provided
+Number of Smoothing Points                                  0
+Wavelength Range for Zeroing                                No data provided
+Secondary Structure Calculated from                         No data provided
+DSSP value: alpha helix                                     No data provided
+DSSP value: 3-10 helix                                      No data provided
+DSSP value: pi helix                                        No data provided
+DSSP value: beta strand                                     No data provided
+DSSP value: beta bridge                                     No data provided
+DSSP value: bonded turn                                     No data provided
+DSSP value: bend                                            No data provided
+DSSP value: loop or irregular                               No data provided
+PDB ID                                                      No data provided
+UniProt ID                                                  P62568
+Enzyme Classification (EC)                                  No data provided
+Medline Entry                                               No data provided
+Cath Classification                                         No data provided
+Sequence                                                    GLLSVLGSVA KHVLPHVVPV IAEHL 
+Type of protein                                             membrane
+Keyword/phrase A                                            antimicrobial peptide
+Keyword/phrase B                                            phospholipids vesicles
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         No data provided
+Publication Year                                            No data provided
+Publication Journal                                         No data provided
+Publication Title                                           No data provided
+Publication Volume                                          No data provided
+Publication Pages                                           No data provided
+Depositor Name                                              marc-antoine sani
+Department/School name                                      Chemistry
+University/Institution/Corporation                          The Univeristy of Melbourne
+Depositor Country                                           Australia
+Name of Principal Investigator (if not depositor)           Frances Separovic
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+250               0          0.0000          0.0000          0.0000          0.0000 
+249     59.65252632          0.0000          0.0000          0.0000          0.0000 
+248         -154.74          0.0000          0.0000          0.0000          0.0000 
+247    -205.6105263          0.0000          0.0000          0.0000          0.0000 
+246    -401.4073684          0.0000          0.0000          0.0000          0.0000 
+245    -503.1547368          0.0000          0.0000          0.0000          0.0000 
+244    -998.9452632          0.0000          0.0000          0.0000          0.0000 
+243    -1299.650526          0.0000          0.0000          0.0000          0.0000 
+242    -1377.545263          0.0000          0.0000          0.0000          0.0000 
+241    -2032.976842          0.0000          0.0000          0.0000          0.0000 
+240    -2407.376842          0.0000          0.0000          0.0000          0.0000 
+239    -3313.334737          0.0000          0.0000          0.0000          0.0000 
+238    -3684.566316          0.0000          0.0000          0.0000          0.0000 
+237    -4543.155789          0.0000          0.0000          0.0000          0.0000 
+236    -5702.808421          0.0000          0.0000          0.0000          0.0000 
+235    -6619.997895          0.0000          0.0000          0.0000          0.0000 
+234    -7575.787368          0.0000          0.0000          0.0000          0.0000 
+233    -8783.513684          0.0000          0.0000          0.0000          0.0000 
+232    -10310.88211          0.0000          0.0000          0.0000          0.0000 
+231    -11544.17684          0.0000          0.0000          0.0000          0.0000 
+230    -12709.12421          0.0000          0.0000          0.0000          0.0000 
+229    -13906.70316          0.0000          0.0000          0.0000          0.0000 
+228    -15186.70316          0.0000          0.0000          0.0000          0.0000 
+227    -15819.65053          0.0000          0.0000          0.0000          0.0000 
+226    -16870.91368          0.0000          0.0000          0.0000          0.0000 
+225    -17424.91368          0.0000          0.0000          0.0000          0.0000 
+224    -18241.01895          0.0000          0.0000          0.0000          0.0000 
+223    -18808.38737          0.0000          0.0000          0.0000          0.0000 
+222    -18622.49263          0.0000          0.0000          0.0000          0.0000 
+221    -19033.33474          0.0000          0.0000          0.0000          0.0000 
+220    -19080.70316          0.0000          0.0000          0.0000          0.0000 
+219    -19240.38737          0.0000          0.0000          0.0000          0.0000 
+218    -18781.75579          0.0000          0.0000          0.0000          0.0000 
+217    -19025.65053          0.0000          0.0000          0.0000          0.0000 
+216    -19126.28211          0.0000          0.0000          0.0000          0.0000 
+215    -19027.33474          0.0000          0.0000          0.0000          0.0000 
+214    -19742.49263          0.0000          0.0000          0.0000          0.0000 
+213    -19710.17684          0.0000          0.0000          0.0000          0.0000 
+212       -20369.44          0.0000          0.0000          0.0000          0.0000 
+211    -20925.65053          0.0000          0.0000          0.0000          0.0000 
+210    -21419.33474          0.0000          0.0000          0.0000          0.0000 
+209    -21928.07158          0.0000          0.0000          0.0000          0.0000 
+208    -21279.65053          0.0000          0.0000          0.0000          0.0000 
+207    -20459.96632          0.0000          0.0000          0.0000          0.0000 
+206    -18192.28211          0.0000          0.0000          0.0000          0.0000 
+205    -14743.86105          0.0000          0.0000          0.0000          0.0000 
+204    -10641.75579          0.0000          0.0000          0.0000          0.0000 
+203        -5774.04          0.0000          0.0000          0.0000          0.0000 
+202    -835.7894737          0.0000          0.0000          0.0000          0.0000 
+201     4855.086316          0.0000          0.0000          0.0000          0.0000 
+200     11506.34947          0.0000          0.0000          0.0000          0.0000 
+199     18239.29684          0.0000          0.0000          0.0000          0.0000 
+198        26778.56          0.0000          0.0000          0.0000          0.0000 
+197     33565.29684          0.0000          0.0000          0.0000          0.0000 
+196     38929.50737          0.0000          0.0000          0.0000          0.0000 
+195     43084.24421          0.0000          0.0000          0.0000          0.0000 
+194     45122.77053          0.0000          0.0000          0.0000          0.0000 
+193     45774.34947          0.0000          0.0000          0.0000          0.0000 
+192     44967.40211          0.0000          0.0000          0.0000          0.0000 
+191     42425.61263          0.0000          0.0000          0.0000          0.0000 
+190     38376.45474          0.0000          0.0000          0.0000          0.0000 
+189     34927.71789          0.0000          0.0000          0.0000          0.0000 
+188     30554.03368          0.0000          0.0000          0.0000          0.0000 
+187     25907.71789          0.0000          0.0000          0.0000          0.0000 
+186     20871.19158          0.0000          0.0000          0.0000          0.0000 
+185     18230.87579          0.0000          0.0000          0.0000          0.0000 
+184     13585.61263          0.0000          0.0000          0.0000          0.0000 
+183     12109.50737          0.0000          0.0000          0.0000          0.0000 
+182         8987.36          0.0000          0.0000          0.0000          0.0000 
+181     6547.717895          0.0000          0.0000          0.0000          0.0000 
+180     5396.486316          0.0000          0.0000          0.0000          0.0000 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+0.000         0.0000
+PCDDB-END

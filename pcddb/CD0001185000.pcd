@@ -1,0 +1,363 @@
+PCDDB DATA FILE                                             
+PCDDBID                                                     CD0001185000
+FILE EXTRACTED                                              2013-06-23
+Protein Name                                                Sodium/potassium-transporting ATPase
+Alternative Protein Names                                   Na,K,ATPase
+Source Organism                                             Squalus acanthias
+Protein Supplier                                            M.Esmann, Uni. Aarhus, Denmark
+Expression System or natural source                         Natural source
+Expressed As                                                Wild-type
+Mutation Details                                            No data provided
+Expression tags (if any)                                    No data provided
+Ligands Present and Concentration or ratio                  No data provided
+Macromolecular Partner(s) and Concentration or ratio        No data provided
+Deposition Date                                             2012-02-02
+Dichroism Units of Raw Sample Data                          Millidegrees (theta)
+Dichroism Units of Raw Baseline Data                        Millidegrees (theta)
+Dichroism Units of Average Sample Data                      Delta Epsilon
+Dichroism Units of Averaged Baseline Data                   Millidegrees (theta)
+Dichroism Units of Net Smoothed Data                        Millidegrees (theta)
+Dichroism Units of Processed Data                           Delta Epsilon
+CD or SRCD                                                  SRCD
+Protein Concentration (mg/ml)                               4
+Concentration Quantification Method                         Lowery (calbrated by QAA)
+Protein Purity (%)                                          No data provided
+Purity Quantification Method                                No data provided
+Buffer Contents and Concentrations                          10 mM Tris, 25 mM K2SO4 and 25% glycerol (pH 7.4), 8mg/ml C12E8
+Baseline Contents                                           10 mM Tris, 25 mM K2SO4 and 25% glycerol (pH 7.4), 8mg/ml C12E8
+Experimental Temperature (C)                                45
+Instrument or beamline                                      ISA CD1
+Detector Angle (Scattering Angle)                           No data provided
+Sample Cell Pathlength (cm)                                 0.0015
+Cell Pathlength Calibration Method                          Interferometry
+Sample Cell Type                                            Cylindrical-Demountable
+Sample Cell Composition                                     Suprasil
+Sample Chamber Atmosphere                                   Nitrogen
+Number of repeat scans                                      3
+Continuous or Stepped scan                                  Stepped
+Maximum (highest) wavelength, nm                            280
+Minimum (lowest) wavelength, nm                             180
+Criteria for low wavelength cutoff                          HT value
+Wavelength interval, nm                                     1
+Dwell or Averaging time, seconds                            2
+Experimental Collection date                                2010-05-31
+Local Spectrum Identifier                                   a17954
+CSA or ACS                                                  CSA
+Dichroism Units for CSA Standard                            Millidegrees (theta)
+Final Spectrum Calibrated                                   YES
+CSA/ACS Standard Concentration (mg/ml)                      5.70
+CSA/ACS Pathlength (mm)                                     0.10
+CSA/ACS Zeroed at                                           235-245
+CSA/ACS Date Measured                                       2010-05-31
+CSA/ACS Ratio (192.5nm and 290.0 nm)                        2.10
+CD signal at 290nm (mdeg)                                   18.01
+CSA/ACS Experiment temperature, C                           25
+Molecular Weight                                            121388.5
+Number of Residues                                          1102
+Mean Residue Weight                                         110.3
+Data Processing Software Name                               CDTool
+Data Processing Software Version                            1.4
+Number of Smoothing Points                                  7
+Wavelength Range for Zeroing                                263-170
+Secondary Structure Calculated from                         Crystal structure
+DSSP value: alpha helix                                     0.363
+DSSP value: 3-10 helix                                      0.036
+DSSP value: pi helix                                        0.004
+DSSP value: beta strand                                     0.132
+DSSP value: beta bridge                                     0.009
+DSSP value: bonded turn                                     0.102
+DSSP value: bend                                            0.081
+DSSP value: loop or irregular                               0.273
+PDB ID                                                      2zxe
+UniProt ID                                                  Q4H132,Q70Q12
+Enzyme Classification (EC)                                  -
+Medline Entry                                               19458722
+Cath Classification                                         2.70.150.10 1.20.1110.10 3.40.50.1000 3.40.1110.10
+Sequence                                                    MGKGTASDKY EPAATSENAT KSKKKGKKDK IDKKRDLDEL KKEVSMDDHK LSLDELHNKY GTDLTRGLTN ARAKEILARD GPNSLTPPPT TPEWIKFCRQ LFGGFSILLW IGAILCFLAY GIQAATEDEP ANDNLYLGVV LSTVVIVTGC FSYYQEAKSS RIMDSFKNMV PQQALVIRDG EKSTINAEFV VAGDLVEVKG GDRIPADLRI ISAHGCKVDN SSLTGESEPQ TRSPEFSSEN PLETRNIAFF STNCVEGTAR GVVVYTGDRT VMGRIATLAS GLEVGRTPIA IEIEHFIHII TGVAVFLGVS FFILSLILGY SWLEAVIFLI GIIVANVPEG LLATVTVCLT LTAKRMARKN CLVKNLEAVE TLGSTSTICS DKTGTLTQNR MTVAHMWFDN QIHEADTTEN QSGAAFDKTS ATWSALSRIA ALCNRAVFQA GQDNVPILKR SVAGDASESA LLKCIELCCG SVQGMRDRNP KIVEIPFNST NKYQLSIHEN EKSSESRYLL VMKGAPERIL DRCSTILLNG AEEPLKEDMK EAFQNAYLEL GGLGERVLGF CHFALPEDKY NEGYPFDADE PNFPTTDLCF VGLMAMIDPP RAAVPDAVGK CRSAGIKVIM VTGDHPITAK AIAKGVGIIS EGNETIEDIA ARLNIPIGQV NPRDAKACVV HGSDLKDLST EVLDDILHYH TEIVFARTSP QQKLIIVEGC QRQGAIVAVT GDGVNDSPAL KKADIGVAMG ISGSDVSKQA ADMILLDDNF ASIVTGVEEG RLIFDNLKKS IAYTLTSNIP EITPFLVFII GNVPLPLGTV TILCIDLGTD MVPAISLAYE QAESDIMKRQ PRNPKTDKLV NERLISMAYG QIGMIQALGG FFSYFVILAE NGFLPMDLIG KRVRWDDRWI SDVEDSFGQQ WTYEQRKIVE FTCHTSFFIS IVVVQWADLI ICKTRRNSIF QQGMKNKILI FGLFEETALA AFLSYCPGTD VALRMYPLKP SWWFCAFPYS LIIFLYDEMR RFIIRRSPGG WVEQETYYMD PEGPDNDERF TYDYYRLRVV GLIVAAVLCV IGIIILLAGK CRCKFNQNKR TRSNSGTATA QHLLQPGEAT EC 
+Type of protein                                             membrane
+Keyword/phrase A                                            Thermal stability
+Keyword/phrase B                                            No data provided
+Keyword/phrase C                                            No data provided
+Keyword/phrase D                                            No data provided
+Keyword/phrase E                                            No data provided
+Keyword/phrase F                                            No data provided
+Keyword/phrase G                                            No data provided
+Keyword/phrase H                                            No data provided
+Keyword/phrase I                                            No data provided
+Keyword/phrase J                                            No data provided
+Publication Authors                                         Andrew J. Miles, B. A. Wallace, and Mikael Esmann
+Publication Year                                            2011
+Publication Journal                                         BBA biomembranes
+Publication Title                                           Correlation of structural and functional thermal stability of the integral membrane protein Na,K-ATPase
+Publication Volume                                          1808
+Publication Pages                                           2573-2580
+Depositor Name                                              Andrew Miles
+Department/School name                                      crystallography
+University/Institution/Corporation                          Birkbeck
+Depositor Country                                           United Kingdom
+Name of Principal Investigator (if not depositor)           M. Esmann
+DATA (1. Wavelength. 2. Final. 3. HT. 4.Smoothed. 5. Avg. Sample. 6. Avg. Baseline.)
+280.0    -8.78549E-03      2.65880E+00     -1.46669E-02      4.31333E-01      4.79667E-01 
+279.0     2.99340E-02      2.66090E+00      5.00001E-02      5.72000E-01      5.55667E-01 
+278.0     5.90375E-02      2.66300E+00      9.86664E-02      5.15333E-01      4.50333E-01 
+277.0     2.44528E-02      2.66520E+00      4.08889E-02      4.85333E-01      5.53000E-01 
+276.0     1.56547E-03      2.66730E+00      2.61913E-03      4.55667E-01      4.60667E-01 
+275.0     1.96379E-02      2.66980E+00      3.28731E-02      4.88000E-01      4.77000E-01 
+274.0     4.09982E-02      2.67220E+00      6.86668E-02      4.50000E-01      4.93333E-01 
+273.0     3.88069E-02      2.67490E+00      6.50318E-02      4.93333E-01      3.38667E-01 
+272.0     4.11242E-02      2.67740E+00      6.89524E-02      3.30667E-01      3.63333E-01 
+271.0     1.25556E-02      2.67980E+00      2.10633E-02      2.79333E-01      2.90333E-01 
+270.0    -1.67194E-02      2.68260E+00     -2.80636E-02      3.71333E-01      3.82333E-01 
+269.0    -1.30904E-02      2.68530E+00     -2.19843E-02      2.30333E-01      3.76667E-01 
+268.0    -6.05499E-03      2.68780E+00     -1.01744E-02      3.08667E-01      2.90000E-01 
+267.0     3.41207E-02      2.69050E+00      5.73653E-02      2.52000E-01      2.90000E-01 
+266.0     1.13139E-02      2.69330E+00      1.90319E-02      3.00667E-01      2.46333E-01 
+265.0    -4.91354E-03      2.69600E+00     -8.26987E-03      3.06333E-01      2.57667E-01 
+264.0    -1.05947E-02      2.69880E+00     -1.78414E-02      1.00333E-01      3.98667E-01 
+263.0    -1.60718E-02      2.70180E+00     -2.70796E-02      2.25000E-01      1.22333E-01 
+262.0    -5.19746E-03      2.70460E+00     -8.76204E-03      2.25333E-01      2.68333E-01 
+261.0     5.54366E-02      2.70730E+00      9.35078E-02      2.22333E-01      2.16667E-01 
+260.0     1.45406E-02      2.71000E+00      2.45397E-02      1.03000E-01      1.02667E-01 
+259.0     3.37935E-02      2.71280E+00      5.70635E-02      9.20000E-02     -3.23333E-02 
+258.0     6.77567E-02      2.71580E+00      1.14476E-01      9.76667E-02      1.95333E-01 
+257.0     8.85935E-02      2.71860E+00      1.49762E-01      1.35333E-01     -3.80000E-02 
+256.0     7.47213E-02      2.72160E+00      1.26381E-01      9.76667E-02     -1.11333E-01 
+255.0     6.39878E-02      2.72470E+00      1.08286E-01      5.43333E-02      4.33333E-02 
+254.0    -1.45298E-03      2.72710E+00     -2.46021E-03     -7.03333E-02      5.33333E-03 
+253.0    -3.49008E-02      2.73020E+00     -5.91270E-02     -1.14000E-01     -4.06667E-02 
+252.0    -3.46664E-02      2.73320E+00     -5.87621E-02     -1.70667E-01     -7.33333E-02 
+251.0    -4.79371E-02      2.73600E+00     -8.13016E-02     -1.97667E-01     -1.19333E-01 
+250.0    -2.05225E-02      2.73870E+00     -3.48254E-02     -2.74000E-01     -1.62667E-01 
+249.0    -9.02149E-03      2.74150E+00     -1.53173E-02     -2.41333E-01     -1.24667E-01 
+248.0    -1.92011E-02      2.74390E+00     -3.26189E-02     -2.38667E-01     -3.36333E-01 
+247.0    -4.35175E-02      2.74640E+00     -7.39682E-02     -3.36333E-01     -1.54667E-01 
+246.0    -9.78326E-02      2.74880E+00     -1.66381E-01     -4.82667E-01     -2.55000E-01 
+245.0    -1.60474E-01      2.75090E+00     -2.73063E-01     -7.10333E-01     -4.23000E-01 
+244.0    -1.95040E-01      2.75280E+00     -3.32064E-01     -7.70000E-01     -3.79667E-01 
+243.0    -2.80741E-01      2.75490E+00     -4.78237E-01     -7.18333E-01     -2.92667E-01 
+242.0    -3.43076E-01      2.75670E+00     -5.84745E-01     -1.06800E+00     -4.20333E-01 
+241.0    -3.64173E-01      2.75860E+00     -6.21047E-01     -1.10833E+00     -3.12000E-01 
+240.0    -3.85954E-01      2.76070E+00     -6.58554E-01     -1.20400E+00     -5.77333E-01 
+239.0    -4.60901E-01      2.76310E+00     -7.86871E-01     -1.32300E+00     -6.45333E-01 
+238.0    -5.52706E-01      2.76530E+00     -9.44126E-01     -1.58333E+00     -5.83000E-01 
+237.0    -6.80562E-01      2.76770E+00     -1.16317E+00     -1.97633E+00     -5.83000E-01 
+236.0    -7.86514E-01      2.77020E+00     -1.34500E+00     -2.06000E+00     -7.86000E-01 
+235.0    -8.79310E-01      2.77320E+00     -1.50452E+00     -2.25833E+00     -7.56333E-01 
+234.0    -1.02832E+00      2.77630E+00     -1.76046E+00     -2.59967E+00     -8.24000E-01 
+233.0    -1.23957E+00      2.77990E+00     -2.12329E+00     -3.00100E+00     -8.45667E-01 
+232.0    -1.42308E+00      2.78360E+00     -2.43898E+00     -3.31800E+00     -7.40333E-01 
+231.0    -1.59961E+00      2.78700E+00     -2.74305E+00     -3.55933E+00     -8.26667E-01 
+230.0    -1.78656E+00      2.79150E+00     -3.06532E+00     -3.78467E+00     -7.51000E-01 
+229.0    -1.98687E+00      2.79550E+00     -3.41091E+00     -4.19667E+00     -7.61667E-01 
+228.0    -2.17776E+00      2.79890E+00     -3.74069E+00     -4.68500E+00     -8.32333E-01 
+227.0    -2.32592E+00      2.80250E+00     -3.99740E+00     -4.93400E+00     -8.62333E-01 
+226.0    -2.44389E+00      2.80620E+00     -4.20248E+00     -5.17267E+00     -1.03033E+00 
+225.0    -2.54010E+00      2.80980E+00     -4.37036E+00     -5.28900E+00     -8.84000E-01 
+224.0    -2.65391E+00      2.81380E+00     -4.56871E+00     -5.57933E+00     -9.43333E-01 
+223.0    -2.74159E+00      2.81810E+00     -4.72229E+00     -5.74700E+00     -1.00033E+00 
+222.0    -2.80006E+00      2.82240E+00     -4.82568E+00     -5.93967E+00     -1.05467E+00 
+221.0    -2.80632E+00      2.82780E+00     -4.83917E+00     -5.87733E+00     -1.05200E+00 
+220.0    -2.78536E+00      2.83390E+00     -4.80571E+00     -6.00733E+00     -1.06533E+00 
+219.0    -2.79490E+00      2.84040E+00     -4.82486E+00     -5.95600E+00     -1.20367E+00 
+218.0    -2.79218E+00      2.84830E+00     -4.82287E+00     -5.95600E+00     -1.13867E+00 
+217.0    -2.78856E+00      2.85680E+00     -4.81930E+00     -6.17267E+00     -1.14933E+00 
+216.0    -2.83871E+00      2.86690E+00     -4.90871E+00     -6.06433E+00     -1.27967E+00 
+215.0    -2.82860E+00      2.87910E+00     -4.89397E+00     -6.10267E+00     -1.14400E+00 
+214.0    -2.84700E+00      2.89220E+00     -4.92856E+00     -6.15933E+00     -1.10333E+00 
+213.0    -2.86165E+00      2.90660E+00     -4.95670E+00     -6.05067E+00     -1.19567E+00 
+212.0    -2.86633E+00      2.92280E+00     -4.96759E+00     -6.24067E+00     -1.10333E+00 
+211.0    -2.88192E+00      2.93920E+00     -4.99741E+00     -6.16200E+00     -1.26867E+00 
+210.0    -2.94054E+00      2.95630E+00     -5.10192E+00     -6.33000E+00     -1.16300E+00 
+209.0    -2.91715E+00      2.97460E+00     -5.06419E+00     -6.23800E+00     -1.14967E+00 
+208.0    -2.85349E+00      2.99450E+00     -4.95645E+00     -6.15100E+00     -1.07867E+00 
+207.0    -2.62041E+00      3.01430E+00     -4.55416E+00     -5.96967E+00     -1.40433E+00 
+206.0    -2.29852E+00      3.03660E+00     -3.99697E+00     -5.25133E+00     -1.20100E+00 
+205.0    -1.89988E+00      3.05980E+00     -3.30563E+00     -4.37833E+00     -1.12767E+00 
+204.0    -1.41546E+00      3.08420E+00     -2.46417E+00     -3.73567E+00     -1.21967E+00 
+203.0    -8.14658E-01      3.11040E+00     -1.41903E+00     -2.62133E+00     -1.02467E+00 
+202.0    -1.52587E-01      3.13760E+00     -2.65937E-01     -1.22267E+00     -1.03833E+00 
+201.0     6.27163E-01      3.16630E+00      1.09367E+00      4.10000E-02     -1.05167E+00 
+200.0     1.44122E+00      3.19530E+00      2.51467E+00      1.55867E+00     -8.18667E-01 
+199.0     2.31299E+00      3.22580E+00      4.03803E+00      3.07433E+00     -9.57000E-01 
+198.0     3.22981E+00      3.25600E+00      5.64181E+00      4.62800E+00     -8.13333E-01 
+197.0     3.94850E+00      3.28750E+00      6.90111E+00      6.06433E+00     -1.06000E+00 
+196.0     4.53315E+00      3.31890E+00      7.92744E+00      7.15700E+00     -8.72667E-01 
+195.0     4.90119E+00      3.34760E+00      8.57590E+00      7.36033E+00     -7.83667E-01 
+194.0     5.03738E+00      3.37440E+00      8.81919E+00      8.35033E+00     -7.75333E-01 
+193.0     5.15897E+00      3.39730E+00      9.03719E+00      8.20100E+00     -6.42333E-01 
+192.0     5.07784E+00      3.41900E+00      8.90011E+00      8.06000E+00     -7.26667E-01 
+191.0     4.81258E+00      3.44070E+00      8.43997E+00      7.99500E+00     -7.59000E-01 
+190.0     4.46316E+00      3.46350E+00      7.83162E+00      6.84800E+00     -6.21000E-01 
+189.0     4.05493E+00      3.48800E+00      7.11932E+00      6.46067E+00     -7.35000E-01 
+188.0     3.55198E+00      3.51850E+00      6.23984E+00      5.75533E+00     -3.17333E-01 
+187.0     3.02076E+00      3.55600E+00      5.30964E+00      5.03967E+00     -5.18000E-01 
+186.0     2.36473E+00      3.60580E+00      4.15890E+00      3.59233E+00     -4.99000E-01 
+185.0     1.81684E+00      3.67170E+00      3.19713E+00      2.56200E+00     -3.74000E-01 
+184.0     1.34327E+00      3.76020E+00      2.36513E+00      1.97900E+00     -2.95667E-01 
+183.0     9.68415E-01      3.87400E+00      1.70608E+00      1.28500E+00     -5.26000E-01 
+182.0     5.41972E-01      4.02260E+00      9.55349E-01      5.20333E-01     -6.17667E-01 
+181.0     1.32988E-01      4.21740E+00      2.34555E-01     -7.42667E-01     -7.51000E-01 
+180.0    -3.91181E-01      4.46300E+00     -6.90334E-01     -1.11400E+00     -4.55333E-01 
+CALIBRATION (1. Wavelength. 2. Calibration Spectrum.)       
+330.0    -1.78455E-01
+329.0    -3.97455E-01
+328.0     9.05455E-02
+327.0    -1.97788E-01
+326.0    -1.58312E-01
+325.0    -1.52883E-01
+324.0    -7.30736E-02
+323.0    -4.46450E-02
+322.0    -1.10026E-01
+321.0    -3.40736E-02
+320.0     9.84502E-02
+319.0     2.80022E-01
+318.0     3.64498E-01
+317.0     6.21879E-01
+316.0     9.01688E-01
+315.0     1.35669E+00
+314.0     1.82169E+00
+313.0     2.31955E+00
+312.0     2.82478E+00
+311.0     3.45821E+00
+310.0     4.10907E+00
+309.0     4.86174E+00
+308.0     5.65402E+00
+307.0     6.52283E+00
+306.0     7.48393E+00
+305.0     8.56621E+00
+304.0     9.65579E+00
+303.0     1.06769E+01
+302.0     1.17270E+01
+301.0     1.26108E+01
+300.0     1.34424E+01
+299.0     1.42457E+01
+298.0     1.50029E+01
+297.0     1.56390E+01
+296.0     1.62575E+01
+295.0     1.68247E+01
+294.0     1.72386E+01
+293.0     1.75412E+01
+292.0     1.77590E+01
+291.0     1.78266E+01
+290.0     1.77528E+01
+289.0     1.76919E+01
+288.0     1.74735E+01
+287.0     1.71978E+01
+286.0     1.68845E+01
+285.0     1.64612E+01
+284.0     1.59766E+01
+283.0     1.54423E+01
+282.0     1.48631E+01
+281.0     1.40948E+01
+280.0     1.33636E+01
+279.0     1.25876E+01
+278.0     1.19351E+01
+277.0     1.11885E+01
+276.0     1.05592E+01
+275.0     9.85564E+00
+274.0     9.17778E+00
+273.0     8.55631E+00
+272.0     7.87916E+00
+271.0     7.19340E+00
+270.0     6.51102E+00
+269.0     5.84788E+00
+268.0     5.26197E+00
+267.0     4.86416E+00
+266.0     4.49217E+00
+265.0     4.13555E+00
+264.0     3.57650E+00
+263.0     3.11388E+00
+262.0     2.69188E+00
+261.0     2.40893E+00
+260.0     2.23955E+00
+259.0     2.01026E+00
+258.0     1.65126E+00
+257.0     1.44588E+00
+256.0     1.23983E+00
+255.0     1.04335E+00
+254.0     9.06403E-01
+253.0     7.87974E-01
+252.0     6.39260E-01
+251.0     5.01450E-01
+250.0     4.57831E-01
+249.0     3.67307E-01
+248.0     3.01165E-01
+247.0     1.60498E-01
+246.0     5.17359E-02
+245.0     8.84026E-02
+244.0     1.41212E-01
+243.0     1.71212E-01
+242.0     1.98069E-01
+241.0     1.52597E-02
+240.0    -1.28407E-01
+239.0    -6.54069E-02
+238.0    -1.86597E-01
+237.0    -1.32359E-01
+236.0    -4.25974E-02
+235.0    -8.17403E-02
+234.0    -1.07502E-01
+233.0    -1.09455E-01
+232.0    -2.28169E-01
+231.0    -3.07455E-01
+230.0    -3.72788E-01
+229.0    -4.16074E-01
+228.0    -2.98312E-01
+227.0    -1.69359E-01
+226.0    -1.89307E-02
+225.0    -1.43593E-02
+224.0    -1.84069E-02
+223.0    -2.83931E-01
+222.0    -4.63312E-01
+221.0    -6.49264E-01
+220.0    -8.43883E-01
+219.0    -9.55407E-01
+218.0    -9.68598E-01
+217.0    -1.24331E+00
+216.0    -1.50093E+00
+215.0    -1.73660E+00
+214.0    -2.19522E+00
+213.0    -2.71460E+00
+212.0    -3.41698E+00
+211.0    -4.32912E+00
+210.0    -5.35660E+00
+209.0    -6.44736E+00
+208.0    -7.77093E+00
+207.0    -9.11308E+00
+206.0    -1.07827E+01
+205.0    -1.25383E+01
+204.0    -1.45646E+01
+203.0    -1.66975E+01
+202.0    -1.89413E+01
+201.0    -2.12266E+01
+200.0    -2.37927E+01
+199.0    -2.61737E+01
+198.0    -2.87418E+01
+197.0    -3.10905E+01
+196.0    -3.30952E+01
+195.0    -3.47445E+01
+194.0    -3.61059E+01
+193.0    -3.69927E+01
+192.0    -3.74783E+01
+191.0    -3.76269E+01
+190.0    -3.72235E+01
+189.0    -3.65708E+01
+188.0    -3.55702E+01
+187.0    -3.44772E+01
+186.0    -3.30701E+01
+185.0    -3.13628E+01
+184.0    -2.96053E+01
+183.0    -2.78186E+01
+182.0    -2.58821E+01
+181.0    -2.38293E+01
+180.0    -2.22991E+01
+179.0    -2.02751E+01
+178.0    -1.85646E+01
+177.0    -1.61975E+01
+176.0    -1.35646E+01
+175.0    -1.07565E+01
+174.0    -8.84988E+00
+173.0    -4.48798E+00
+172.0    -3.12467E+00
+171.0    -2.82453E+00
+170.0    -3.58755E+00
+PCDDB-END
